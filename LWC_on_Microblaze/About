@@ -1,0 +1,1 @@
+This project focused on benchmarking the software implementations of three Lightweight Cryptography (LWC) algorithms—Ascon, TinyJambu, and Xoodyak—on the MicroBlaze softcore processor
